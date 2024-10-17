@@ -7,8 +7,6 @@ A simple React application that fetches and displays Chuck Norris jokes based on
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [License](#license)
 
 ## Prerequisites
 
